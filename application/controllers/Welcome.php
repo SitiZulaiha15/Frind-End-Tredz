@@ -29,7 +29,9 @@ class Welcome extends CI_Controller {
 //        }
 //         public function bmx_info()
         {
-            $this->load->view('bmx_bikes');
+            $data['kategori'] = $this->crud->select('kategori')->result();
+             $data['brand'] = $this->crud->select('brand')->result();
+            $this->load->view('index',$data);
         }
         public function deliveri_info(){
             $this->load->view('deliveri_info');
