@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="22.568958mm"
+   height="4.1010418mm"
+   viewBox="0 0 22.568958 4.1010418"
+   version="1.1"
+   id="svg5471"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="mavic.svg">
+  <defs
+     id="defs5465" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="56.935713"
+     inkscape:cy="44.892863"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1304"
+     inkscape:window-height="745"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5468">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-90.769093,-156.61019)">
+    <g
+       transform="matrix(0.26458333,0,0,0.26458333,-37.447989,153.35582)"
+       id="g5129">
+      <path
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 551.2,12.4 c -1.4,0 -2,0.4 -2.8,1.7 L 541,27.6 h 5.9 l 8.4,-15.3"
+         id="path5121" />
+      <path
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 542.3,12.4 c -1.3,0 -2,0.2 -2.6,1.5 l -4.8,9.7 0.2,-11.1 h -5.2 l 0.1,15.3 h 7.9 l 8.3,-15.3"
+         id="path5123" />
+      <path
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 565.1,16.2 c 0.6,0 1.4,0.1 2.5,0.1 l 2.3,-3.9 c -1.2,-0.1 -3.2,-0.1 -4.2,-0.1 -4.1,0 -6.4,0.4 -8.6,2.5 -1.7,1.7 -4.6,6.8 -4.6,9.2 0,2.4 1.5,3.7 5.5,3.7 1.5,0 3.7,0 5.3,-0.1 l 2.3,-3.9 c -1.7,0.1 -3.4,0.1 -4.7,0.1 -1.4,0 -2.4,-0.3 -2.4,-1.2 0,-1.3 1.7,-4.1 2.8,-5.2 0.9,-1.1 2.1,-1.2 3.8,-1.2"
+         id="path5125" />
+      <path
+         inkscape:connector-curvature="0"
+         class="st2"
+         d="m 522,21.4 h -3.8 l 3.9,-6 z m -0.5,-9 c -1.8,0 -2.3,0.2 -3.5,2 l -7.5,10.5 1.5,-12.4 h -4.6 c -1.3,0 -2,0.4 -2.7,1.4 l -4.7,7 0.8,-8.3 h -5.9 l -10.3,15.2 h 5.7 l 5.5,-9.1 -0.7,9.1 h 3.4 c 1,0 1.8,-0.4 2.3,-1.2 l 5.4,-7.9 -1.2,9.1 h 9.1 l 1.7,-2.6 h 6.1 l -0.1,2.6 h 5.3 L 527,12.6"
+         id="path5127" />
+    </g>
+  </g>
+</svg>
